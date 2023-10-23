@@ -74,3 +74,18 @@ hr{
 .textunderneath{
     color: rgb(47,167,222);
 }
+.numbers-container{
+    display: inline-flex;
+    margin-left: 20%;
+    justify-content: space-evenly;
+    width: 900px;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.numbers{
+    width: in;
+}
