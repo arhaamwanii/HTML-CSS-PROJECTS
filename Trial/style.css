@@ -1,0 +1,47 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+button {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+}
+
+.heading{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    
+}
+.logo{
+    display: inline;
+    float: left;
+    margin-left: 200px;
+}
+.flag{
+    height: 38px;
+    width: 38px;
+}
+.middle{
+    
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 800px;
+    align-items: center;
+}
+.sign-in{
+    display: inline;
+    
+    width: 100px ;
+    float: right;
+    margin-right: 150px;
+}
+.door{
+    height: 38px;
+    width: 38px;
+}
