@@ -87,5 +87,20 @@ hr{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .numbers{
-    width: in;
+    width: 100px ;
+}
+.nw{
+    font-size: medium;
+}
+.card{
+    display: flex;
+}
+.card-one{
+    background-color: rgb(229,153,247);
+}
+.card-two{
+    background-color: rgb(116,192,252);
+}
+.card-three{
+    background-color: rgb(99,230,190);
 }
