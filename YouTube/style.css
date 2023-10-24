@@ -75,3 +75,23 @@ body{
 #img{
     border-radius: 50%;
 }
+.sbcontainer{
+    
+    padding-top: 80px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+.side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    border: 1px solid blue;
+}
+hr{
+    margin-right: 90%; 
+    color: gray;
+}

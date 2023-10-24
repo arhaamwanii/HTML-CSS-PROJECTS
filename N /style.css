@@ -102,25 +102,29 @@ hr{
 
 .card-one{
     background-color: rgb(229,153,247);
-    height: 300px;
+    height: 60px;
     width: 220px;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  
 }
 .card-two{
     background-color: rgb(116,192,252);
-    height: 280px;
+    height: 80px;
     width: 200px;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .card-three{
     background-color: rgb(99,230,190);
-    height: 260px;
+    height: 60px;
     width: 180px;
     border-radius: 15px;
-}
-.cardoneitem .cardtwoitem .cardthreeitem{
-    height: 80px;
-    width: 80px;
-    margin: 30px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
 }
