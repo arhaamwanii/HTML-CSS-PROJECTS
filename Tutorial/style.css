@@ -35,4 +35,26 @@ p{
     line-height: 1.55rem;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
+}  
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none ;
+}
+/*hero section*/
+
+.hero-video--section{
+    max-width: 100%;
+    height: auto;
+    width: 30rem;
+    border-radius: 2rem;
+}
+.bg-main{
+    height: 80vh;
+    position: relative;
+}
+
+.hero-section .container{
+
 }
